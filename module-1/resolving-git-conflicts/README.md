@@ -1,5 +1,7 @@
 ![Ironhack logo](https://i.imgur.com/1QgrNNw.png)
 
+# resolving git conflicts Gervasio Feliciosi
+
 # Lab | Resolving Git Conflicts
 
 ## Introduction
