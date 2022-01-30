@@ -12,6 +12,9 @@ The following function shows one way to solve the problem but the code is not id
 Refactor the code based on what you have learned about code simplicity and efficiency.
 """
 
+'''NO TIME TO WORK IN THIS CHALLENGE'''
+
+
 def my_function(X):
     solutions = []
     for x in range(5, X):
