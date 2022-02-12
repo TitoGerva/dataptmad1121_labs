@@ -1,0 +1,10 @@
+
+[tableau-data-viz]
+
+LAB NFL
+
+https://public.tableau.com/app/profile/tito.gerva/viz/tableau-data-vizGervasioFeliciosi/NFL?publish=yes
+
+BONUS
+
+https://public.tableau.com/app/profile/tito.gerva/viz/tableau-data-vizBONUSGervasioFeliciosi/AverageWorldGDPPerCapital?publish=yes
